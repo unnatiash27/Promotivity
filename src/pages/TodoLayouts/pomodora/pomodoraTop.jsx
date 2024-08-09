@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { AiOutlineSetting } from "react-icons/ai";
-import PomodoraSetting from "./pomodoraSetting";
+import PomodoraSetting from "./PomodoraSetting";
 import Tooltip from "../../../Tooltip";
 
 const PomodoraTop = ({ pomoConifg }) => {
