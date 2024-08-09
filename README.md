@@ -4,8 +4,7 @@ Today's Task is a web-based task complition app that allow the users to manage t
 
 ## Live App
 
-You can see the app here [Today's Task](https://daily-to-do-mvp.netlify.app)
-
+You can see the app here https://promotivity.vercel.app/
 ## Run Locally
 
 Clone the project
@@ -57,4 +56,4 @@ Today's Task is a client side application only no server has been used. If needs
 
 ## Feedback
 
-If you have any feedback, please reach out to me at selvavignesh432@gmail.com
+If you have any feedback, please reach out to me at unnatiash27@gmail.com
