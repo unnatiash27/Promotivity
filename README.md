@@ -1,6 +1,6 @@
-# Today's Task
+# 	Promotivity 
 
-Today's Task is a web-based task complition app that allow the users to manage their task list for today. It also has a pomodora and playlists to complete a task efficiently. The app is built using React and leverages the ANTD library for styling.
+	Promotivity  is a web-based task complition app that allow the users to manage their task list for today. It also has a pomodora and playlists to complete a task efficiently. The app is built using React and leverages the ANTD library for styling.
 
 ## Live App
 
