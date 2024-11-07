@@ -45,12 +45,10 @@ Today's Task is a client side application only no server has been used. If needs
 - Redux
 - TailwindCSS
 - LocalStorage
-- ANTD
-- React DnD
+
 
 ## Acknowledgements
 
-- [React DnD](https://www.npmjs.com/package/react-beautiful-dnd)
 - [Tailwind](https://tailwindcss.com/)
 - [Readme.so](https://readme.so/)
 
